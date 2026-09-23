@@ -1,10 +1,13 @@
 {
-  "showLineNumber": false,
+  "showLineNumber": true,
   "readableLineLength": true,
   "livePreview": true,
   "strictLineBreaks": false,
   "foldHeading": true,
   "foldIndent": true,
   "autoPairMarkdown": true,
-  "autoPairBrackets": true
+  "autoPairBrackets": true,
+  "alwaysUpdateLinks": true,
+  "useTab": true,
+  "tabSize": 2
 }

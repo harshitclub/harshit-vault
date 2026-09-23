@@ -2,10 +2,10 @@
   "baseFontSize": 16,
   "cssTheme": "",
   "enabledCssSnippets": [
-    "notion-theme"
+    "modern-minimal-aesthetic"
   ],
   "interfaceFontFamily": "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
   "textFontFamily": "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
   "monospaceFontFamily": "'JetBrains Mono', Consolas, 'Fira Code', monospace",
-  "accentColor": "#2383e2"
+  "accentColor": "#6366f1"
 }

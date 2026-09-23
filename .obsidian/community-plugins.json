@@ -3,5 +3,8 @@
   "dataview",
   "obsidian-kanban",
   "table-editor-obsidian",
-  "editing-toolbar"
+  "editing-toolbar",
+  "templater-obsidian",
+  "obsidian-linter",
+  "paste-url-into-selection"
 ]

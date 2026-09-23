@@ -1,0 +1,35 @@
+{
+  "obsidian-git:backup": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "g"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "p"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "u"
+    }
+  ],
+  "obsidian-linter:lint-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "l"
+    }
+  ]
+}

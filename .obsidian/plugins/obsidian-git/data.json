@@ -6,8 +6,9 @@
   "pullBeforePush": true,
   "showStatusBar": true,
   "showRibbonIcon": true,
-  "commitMessage": "vault backup: {{date}}",
+  "commitMessage": "vault backup: {{date}} {{time}}",
   "gitPath": "",
-  "customMessageOnAutoBackup": true,
-  "autoBackupAfterFileChange": false
+  "customMessageOnAutoBackup": false,
+  "autoBackupAfterFileChange": false,
+  "syncMethod": "merge"
 }
