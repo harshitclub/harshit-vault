@@ -13,12 +13,10 @@ type: "learning-guide"
 ---
 
 # Cognitive Neuroscience Master Guide
-
 > [!abstract] Core Principle
 > Human performance is governed by strict biological laws. By aligning your daily routines with neural biology, you can build elite capabilities in software engineering, mathematics, astronomy, physical vitality (hair and body health), and global career mobility.
 
 ---
-
 ## Table of Contents
 
 - [[#1. Neural Architecture: The Brain as a City|1. Neural Architecture: The Brain as a City]]
@@ -226,6 +224,3 @@ Chronic Unresolved Cortisol Spikes
 - [ ] **Core Deep-Work Block 2 — Mathematics & Astronomy (60–90 min):** Problem sets and physics derivations. Apply Incubation Protocol when blocked.
 - [ ] **Global Career Execution (30–45 min):** Open-source contributions, international job applications, networking with overseas engineering teams.
 - [ ] **Evening Shutdown (45 min):** Brush teeth early to close eating window. Phone stored outside bedroom. Secure 7–8 hours continuous sleep.
-
----
-*Created as a minimalist, high-signal reference for technical mastery, physical health, and global achievement.*
