@@ -1,0 +1,13 @@
+# Obsidian Workspace state (frequently changes, avoid cluttering git commits)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache/
+
+# Obsidian Trash
+.trash/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini

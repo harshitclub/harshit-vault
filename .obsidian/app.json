@@ -1,0 +1,10 @@
+{
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "autoPairMarkdown": true,
+  "autoPairBrackets": true
+}
